@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.gif" alt="Banner" />
-</p>
-
 # 💫 About Me:
 🔭 I’m currently working on full-stack web development projects and improving my problem-solving skills<br>👯 I’m looking to collaborate on open-source projects, especially in web development and real-world applications<br>🤝 I’m looking for help with advanced backend development and system design concepts<br>🌱 I’m currently learning Data Structures & Algorithms, Backend Development, and modern web technologies<br>💬 Ask me about JavaScript, web development, GitHub, and coding fundamentals<br>⚡ Fun fact: I enjoy building projects that solve real problems and constantly pushing myself to learn new tech
 
