@@ -14,10 +14,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kush-gupta-04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 📈 Contribution Graph
-
-[![Kush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kush-gupta-04&theme=react-dark)](...)
-
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats-nu-snowy.vercel.app?user=kush-gupta-04&theme=dark)](https://git.io/streak-stats)
