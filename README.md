@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx..." width="400"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.gif" alt="Banner" />
 </p>
 
 # 💫 About Me:
