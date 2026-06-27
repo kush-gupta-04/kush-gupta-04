@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on full-stack web development projects and improving my problem-solving skills<br>👯 I’m looking to collaborate on open-source projects, especially in web development and real-world applications<br>🤝 I’m looking for help with advanced backend development and system design concepts<br>🌱 I’m currently learning Data Structures & Algorithms, Backend Development, and modern web technologies<br>💬 Ask me about JavaScript, web development, GitHub, and coding fundamentals<br>⚡ Fun fact: I enjoy building projects that solve real problems and constantly pushing myself to learn new tech
+## 💫 About Me
+💻 Full-Stack MERN Developer with a passion for building scalable and user-friendly web applications
+⚙️ Aspiring DevOps Engineer focused on automation, cloud technologies, containerization, and CI/CD pipelines
+🚀 Constantly improving my skills in **AWS, Docker, Kubernetes, GitHub Actions, Terraform, Linux, and System Design**
+🤝 Looking to contribute to impactful **Open Source**, **Full-Stack**, and **DevOps** projects
+💬 Skilled in **JavaScript, React, Node.js, Express.js, MongoDB, REST APIs, Git, GitHub, and modern web development**
+🎯 Goal: To become a DevOps Engineer who bridges software development and infrastructure through automation and cloud-native technologies.
 
 
 ## 🌐 Socials:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kush-gupta0401/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushagragupta0401@gmail.com) kushagragupta0401@gmail.com
