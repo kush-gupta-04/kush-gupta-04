@@ -11,9 +11,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=kush-gupta-04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kush-gupta-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kush-gupta-04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats-nu-snowy.vercel.app?user=kush-gupta-04&theme=dark)](https://git.io/streak-stats)
